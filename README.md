@@ -1,4 +1,4 @@
-# 🏃 About Me:
+# About Me:
 Hi, I'm Atharva! 👋 A passionate software developer and recent graduate, excited about building impactful applications and growing my skills in backend development / full-stack web.<br>
 
 
